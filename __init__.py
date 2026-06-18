@@ -3,7 +3,7 @@
 
 from albert import *
 
-md_iid = "5.0"
+md_iid = "6.0"
 md_version = "1.0.0"
 md_name = "Preference panes"
 md_description = "Open System Settings panes directly"
